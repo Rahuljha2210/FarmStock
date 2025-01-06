@@ -44,7 +44,10 @@ Flesh: Number of flesh portions required (up to 30).
 Error Message:
 If the order exceeds the available inventory, an error message will be displayed.
 **
-Results:**
+**Results**:**
 Displays the total weight of the order in kilograms.
 Displays the number of chickens needed.
 Displays the remaining inventory.
+
+**output:**
+https://rahuljha2210.github.io/FarmStock/
